@@ -1,0 +1,133 @@
+# category|name|town|address|phone|website|description|tags (comma list: 24/7, walk-in, free, call-first, card)
+# Lines starting with # are ignored. Leave a field blank if unknown. "card" = also printed on the handout.
+Urgent & crisis|Emergency (police, fire, ambulance)|Statewide||911||Life-threatening emergency, overdose, fire, or violence happening now.|24/7,free,card
+Urgent & crisis|Connecticut 2-1-1|Statewide||211|https://www.211ct.org/|The main door to shelter, food, utilities and mental-health crisis help in Connecticut. For housing, press 3. For crisis, press 1. Many languages.|24/7,free,card
+Urgent & crisis|2-1-1 if 211 won't dial|Statewide||800-203-1234|https://www.211ct.org/|Use this number from out-of-state phones or if 211 does not connect.|24/7,free
+Urgent & crisis|988 Suicide & Crisis Lifeline|Statewide||988|https://988lifeline.org/|Call or text 988 for emotional distress, suicidal thoughts or a mental-health crisis. Veterans press 1.|24/7,free,card
+Urgent & crisis|Adult Mobile Crisis (through 2-1-1)|Statewide||211|https://portal.ct.gov/crisisservices|Call 211, press 1 (crisis), then 2 (adults). A crisis team can come to where you are.|24/7,free
+Urgent & crisis|Crisis Text Line|Statewide||||Text HOME to 741741 to reach a trained crisis counselor by text.|24/7,free
+Urgent & crisis|Poison Control|Statewide||800-222-1222|https://www.poison.org/|Possible poisoning or overdose questions. If someone is not breathing, call 911 first.|24/7,free
+Urgent & crisis|CT Safe Connect (domestic violence)|Statewide||888-774-2900|https://ctsafeconnect.org/|Confidential help for domestic violence, safety planning and emergency DV shelter. Call, text or chat.|24/7,free,card
+Urgent & crisis|CT Substance Use Treatment Access Line|Statewide||800-563-4086|https://portal.ct.gov/dmhas/programs-and-services/finding-services/access-line-for-substance-use-treatment|Free referrals to detox and addiction treatment, including help with transportation.|24/7,free,card
+Shelter & housing|Coordinated Access via 2-1-1|Statewide||211|https://portal.ct.gov/doh/knowledge-base/articles/homeless-support/access-homeless-services|Every shelter bed in Greater Hartford is reached through 2-1-1 (press 3). You will be scheduled with a Coordinated Access appointment.|free,card
+Shelter & housing|Salvation Army Marshall House|Hartford|225 S. Marshall St, Hartford|860-543-8430|https://easternusa.salvationarmy.org/southern-new-england/|Emergency shelter for women and families with meals and clothing. Referral through 2-1-1.|call-first
+Shelter & housing|South Park Inn|Hartford|75 Main St, Hartford|860-724-0071|https://southparkinn.org/|Emergency shelter for single adults and families; transitional beds for veterans; winter warming center partner.|call-first
+Shelter & housing|ImmaCare (Immaculate Conception Shelter)|Hartford|168 Hungerford St, Hartford|860-724-4823|https://immacare.org/|Emergency shelter for adult men, street outreach and supportive housing.|call-first
+Shelter & housing|The Open Hearth|Hartford|437 Sheldon St, Hartford|860-525-3447|https://www.theopenhearth.org/|Shelter, transitional living and recovery support for men.|call-first
+Shelter & housing|CRT McKinney Men's Shelter|Hartford|34 Huyshope Ave, Hartford|860-722-6922|https://www.crtct.org/|Emergency shelter for men run by Community Renewal Team. Access through 2-1-1.|call-first
+Shelter & housing|CRT East Hartford Community Shelter|East Hartford||860-568-0323|https://www.crtct.org/|24-hour emergency shelter for adults. Call 2-1-1 first to check for space.|24/7,call-first
+Shelter & housing|CRT East Hartford Family Shelter|East Hartford|385 Main St, East Hartford|211|https://www.crtct.org/programs/housing-shelters/east-hartford-family-shelter|40-bed shelter for adults with children. Call 2-1-1 to check space.|call-first
+Shelter & housing|YWCA Hartford Region|Hartford|135 Broad St, Hartford||https://www.ywcahartford.org/|Housing and support programs for women.|call-first
+Shelter & housing|Friendship Service Center|New Britain|241 Arch St, New Britain|860-225-0211||Emergency shelter, community kitchen and case management for the greater New Britain area.|call-first
+Shelter & housing|Salvation Army New Britain Men's Shelter|New Britain|78 Franklin Square, New Britain|860-225-8491|https://easternusa.salvationarmy.org/southern-new-england/|Emergency shelter for men.|call-first
+Shelter & housing|St. Vincent de Paul Mission of Bristol|Bristol|19 Jacobs St, Bristol|860-589-0702||Emergency shelter and soup kitchen. Bristol shelters require a 2-1-1 referral.|call-first
+Shelter & housing|MACC Charities emergency shelter|Manchester|466 Main St, Manchester|860-647-8003||Manchester Area Conference of Churches: emergency shelter, community kitchen, pantry and thrift shop.|call-first
+Shelter & housing|Mercy Housing and Shelter|Hartford|211 Wethersfield Ave, Hartford|860-808-2120|https://www.mercyhousingct.org/|Shelter, supportive housing and the Friendship Center day program.|call-first
+Shelter & housing|Journey Home|Greater Hartford|||https://journeyhomect.org/|Coordinates the Greater Hartford plan to end homelessness and rapid rehousing help.|
+Shelter & housing|Connecticut Department of Housing|Statewide|||https://portal.ct.gov/doh|Rental assistance programs, housing vouchers and eviction-prevention information.|
+Warming & day centers|City of Hartford warming centers|Hartford||211|https://www.hartfordct.gov/|During cold-weather protocol the city opens overnight warming sites (recently Holy Trinity Church, 53 Capitol Ave). Call 2-1-1 for tonight's list.|free,walk-in,card
+Warming & day centers|Center Church emergency overnight shelter|Hartford|60 Gold St, Hartford|860-249-5631|https://centerchurchhartford.org/activities/reaching-out|Winter overnight shelter (about 8:30 p.m.–8 a.m.), priority for young adults 18–24. Call or dial 2-1-1.|free,call-first
+Warming & day centers|The Friendship Center at St. Elizabeth House|Hartford|118 Main St, Hartford|860-808-2120|https://www.mercyhousingct.org/|Day center: breakfast and lunch Tue–Sat, showers, laundry and personal-care items.|free,walk-in,card
+Warming & day centers|Hartford Public Library – Downtown|Hartford|500 Main St, Hartford|860-695-6300|https://www.hplct.org/|Warm, safe place during the day with restrooms, computers, Wi-Fi, phone charging and staff who can help you reach 2-1-1.|free,walk-in
+Warming & day centers|Hands On Hartford|Hartford|55 Bartholomew Ave, Hartford|860-728-3201|https://handsonhartford.org/|Community meals, food pantry, and health and housing help.|free,walk-in
+Meals & food pantries|House of Bread soup kitchen|Hartford|27 Chestnut St, Hartford|860-278-3561|https://www.hobread.org/|Breakfast Mon–Fri 8–9 a.m. and lunch 11:30 a.m.–12:45 p.m.|free,walk-in,card
+Meals & food pantries|Friendship Center meals|Hartford|118 Main St, Hartford|860-808-2120|https://www.mercyhousingct.org/|Breakfast 8 a.m. and grab-and-go lunch at noon, Tuesday–Saturday.|free,walk-in
+Meals & food pantries|Hands On Hartford community meals & MANNA pantry|Hartford|55 Bartholomew Ave, Hartford|860-728-3201|https://handsonhartford.org/|Community meals and a choice food pantry. Free meals on most holidays.|free,card
+Meals & food pantries|Three Angels Adventist Community Service|Hartford|500 Woodland St, Hartford|860-522-0625||Soup kitchen Tuesday and Friday, 9 a.m.–12 p.m.|free,call-first
+Meals & food pantries|Glory Chapel International Cathedral|Hartford|221 Greenfield St, Hartford|860-547-1561||Food pantry and soup kitchen; walk-ins accepted.|free,call-first
+Meals & food pantries|Immanuel Congregational Church|Hartford|10 Woodland St, Hartford|860-524-1730||Weekday lunch program. Call to confirm current days.|free,call-first
+Meals & food pantries|St. Monica's Episcopal Church|Hartford|3575 Main St, Hartford|860-522-7761||Soup kitchen on the 3rd and 4th Saturdays, 12–2 p.m.|free,call-first
+Meals & food pantries|Franciscan Center for Urban Ministry|Hartford|285 Church St, Hartford||https://spsact.org/franciscan-center/for-those-in-need/|St. Patrick–St. Anthony outreach: food, clothing help and a caring welcome.|free,call-first
+Meals & food pantries|South Church food pantry|Hartford|||https://scchartford.org/food-pantry/|Register with the church office for the pantry and confirm hours.|free,call-first
+Meals & food pantries|East Hartford Friendship Soup Kitchen|East Hartford|12 Rector St, East Hartford|860-528-5605||East Hartford Interfaith Ministries: evening meal Monday, Wednesday and Friday.|free,walk-in
+Meals & food pantries|New Covenant United Methodist Church|East Hartford|16 Church St, East Hartford|860-528-2228||Free meals Monday, Wednesday and Friday, 3:30–5 p.m.|free,walk-in
+Meals & food pantries|East Hartford food resources|East Hartford||860-291-7248|https://www.easthartfordct.gov/FoodResources|Town list of pantries and mobile distributions.|free
+Meals & food pantries|MACC Community Kitchen|Manchester|466 Main St, Manchester|860-647-0440||Lunch for anyone in need, Monday–Saturday, 11:30 a.m.–12:45 p.m.|free,walk-in
+Meals & food pantries|Fern Street Community Kitchen|West Hartford|433 Fern St, West Hartford|||Free breakfast every other Monday, 9–10 a.m.|free,call-first
+Meals & food pantries|West Hartford Social Services food pantry|West Hartford||860-561-7561|https://www.westhartfordct.gov/town-departments/social-services/panhandling/local-food-options|Town pantry for West Hartford residents, weekdays 8:30 a.m.–4:30 p.m.|free,call-first
+Meals & food pantries|New Britain Food & Resource Center|New Britain||860-827-8402||Open to the public Wednesday and Friday, 11 a.m.–3 p.m.|free,call-first
+Meals & food pantries|St. James Baptist soup kitchen & pantry|New Britain||860-224-7736||Meals and pantry for the greater New Britain area.|free,call-first
+Meals & food pantries|Enfield Loaves & Fishes|Enfield|23 North Main St, Enfield|860-741-0226||Food pantry for those in need.|free,call-first
+Meals & food pantries|Enfield Food Shelf|Enfield||860-741-7321||Food pantry for Enfield residents.|free,call-first
+Meals & food pantries|Jewish Family Services – Anja Rosenberg Kosher Pantry|West Hartford||860-236-1927|https://www.jfshartford.org/|Kosher food pantry by appointment, Tuesday–Thursday.|free,call-first
+Meals & food pantries|Connecticut Foodshare pantry finder|Statewide|||https://www.ctfoodshare.org/get-help|Look up nearby pantries and mobile food trucks by town and day.|free
+Meals & food pantries|SNAP (food stamps)|Statewide||855-626-6632|https://portal.ct.gov/dss/snap|Apply for monthly food benefits. You can apply without a home address.|free
+Health care|Charter Oak Health Care for the Homeless|Hartford|21 Grand St, Hartford|860-550-7500|https://thecharteroak.org/|Medical, dental and behavioral health for people experiencing homelessness, including a mobile medical and dental van that visits shelters. Sliding fees; uninsured welcome.|free,card
+Health care|Community Health Services|Hartford|500 Albany Ave, Hartford|860-249-9625|https://www.chshartford.org/|Primary care, dental, behavioral health and pharmacy. Sliding-fee options.|
+Health care|First Choice Health Centers|East Hartford|94 Connecticut Blvd, East Hartford|860-528-1359|https://firstchc.org/|Primary care, dental and behavioral health. Ask about sliding fees.|
+Health care|Hartford Health & Human Services|Hartford|131 Coventry St, Hartford|860-757-4700|https://www.hartfordct.gov/Government/Departments/HHS|City public-health programs, testing and referrals.|free
+Health care|LEO Clinic|Hartford|602 New Britain Ave, Hartford|860-249-0975||Free or income-based care. Call for hours.|call-first
+Health care|Hartford Hospital Emergency|Hartford|80 Seymour St, Hartford|860-545-5000|https://hartfordhospital.org/|Emergency department open 24 hours (main hospital line).|24/7
+Health care|Saint Francis Hospital Emergency|Hartford|114 Woodland St, Hartford|860-714-4000|https://www.trinityhealthofne.org/location/saint-francis-hospital|Emergency department open 24 hours (main hospital line).|24/7
+Health care|Connecticut Children's Emergency|Hartford|282 Washington St, Hartford|860-545-9000|https://www.connecticutchildrens.org/|Pediatric emergency department, open 24 hours.|24/7
+Health care|Hospital of Central Connecticut|New Britain|100 Grand St, New Britain|860-224-5011|https://thocc.org/|Emergency department open 24 hours (main hospital line).|24/7
+Health care|Manchester Memorial Hospital|Manchester|71 Haynes St, Manchester|860-646-1222|https://www.echn.org/|Emergency department open 24 hours (main hospital line).|24/7
+Health care|HUSKY Health (Medicaid) / Access Health CT|Statewide||855-805-4325|https://www.accesshealthct.com/|Free or low-cost health insurance. Apply by phone weekdays 8 a.m.–4 p.m. or online.|free
+Health care|HUSKY non-emergency rides to appointments|Statewide||888-248-9895||Free rides to medical appointments for HUSKY members. Call at least two business days ahead.|free
+Health care|Advancing CT Together (formerly AIDS Connecticut)|Hartford|110 Bartholomew Ave, Hartford|860-247-2437|https://www.act-ct.org/|Free HIV and hepatitis C testing, harm reduction and housing support.|free
+Health care|Hartford Gay & Lesbian Health Collective|Hartford|1841 Broad St, Hartford|860-278-4163|https://www.hglhc.org/|HIV/STI testing, prevention and LGBTQ+ health support.|free
+Mental health|Capitol Region Mental Health Center|Hartford|500 Vine St, Hartford|860-297-0800|https://portal.ct.gov/dmhas/crmhc|State mental-health center for adults. 24-hour crisis line: 860-297-0999.|card
+Mental health|CRMHC Crisis & Mobile Crisis|Hartford||860-297-0999|https://portal.ct.gov/dmhas/crmhc/agency-files/crmhc-telephone-numbers|Crisis line for Hartford-area adults.|24/7,free
+Mental health|InterCommunity Health Care|East Hartford|281 Main St, East Hartford|860-569-5900|https://www.intercommunityct.org/|Mental health, addiction treatment and primary care. Mobile crisis by day; after hours call 2-1-1.|
+Mental health|CRT Homeless Outreach|Hartford||860-560-5600|https://www.crtct.org/|Street outreach, behavioral health and case management for adults experiencing homelessness.|
+Mental health|Chrysalis Center|Hartford|255 Homestead Ave, Hartford|860-263-4400|https://chrysaliscenterct.org/|Recovery-oriented behavioral health, supportive housing and employment help.|
+Mental health|The Village for Families & Children|Hartford|1680 Albany Ave, Hartford||https://thevillage.org/|Counseling and behavioral health for children, teens and caregivers.|
+Mental health|Wheeler Health|Hartford area|||https://www.wheelerhealth.org/|Behavioral health, addiction and primary care for children and adults.|
+Mental health|NAMI Connecticut|Statewide|||https://namict.org/|Free support groups and education for people living with mental illness and their families.|free
+Addiction recovery & harm reduction|Root Center for Advanced Recovery|Hartford|345 Main St, Hartford|860-525-2181|https://rootcenter.org/|Methadone and Suboxone treatment (formerly Hartford Dispensary). Walk-in intake; call for times.|walk-in,card
+Addiction recovery & harm reduction|Hartford HealthCare Alcohol & Drug Recovery Centers|Hartford|500 Blue Hills Ave, Hartford|860-714-3700|https://hartfordhealthcare.org/|Inpatient detox and recovery services.|
+Addiction recovery & harm reduction|Blue Hills Substance Abuse Services (DMHAS)|Hartford|500 Vine St, Hartford|860-293-6400|https://portal.ct.gov/dmhas|State inpatient detox and addiction treatment.|
+Addiction recovery & harm reduction|CCAR Hartford Recovery Community Center|Hartford|198 Wethersfield Ave, Hartford|860-244-3343|https://ccar.us/|Peer recovery coaches, all-recovery meetings and a welcoming place. Call ahead to confirm hours.|free
+Addiction recovery & harm reduction|CT Harm Reduction Alliance|Hartford|557 Albany Ave, Hartford|860-272-1037||Free naloxone (Narcan), syringe services, fentanyl test strips, HIV testing. No judgment.|free,walk-in,card
+Addiction recovery & harm reduction|SAMHSA National Helpline|National||800-662-4357|https://www.samhsa.gov/find-help/national-helpline|Free, confidential treatment referrals in English and Spanish.|24/7,free
+Addiction recovery & harm reduction|Never Use Alone hotline|National||800-484-3731|https://neverusealone.com/|If you use alone, call; someone stays on the line and sends help if you stop responding.|24/7,free
+Addiction recovery & harm reduction|Alcoholics Anonymous – Hartford area meetings|Greater Hartford|||https://www.ct-aa.org/|Find free AA meetings by town and time.|free
+Addiction recovery & harm reduction|Narcotics Anonymous – Connecticut|Statewide|||https://ctna.org/|Find free NA meetings by town and time.|free
+Addiction recovery & harm reduction|CT Alliance for Recovery Residences|Statewide||||Certifies sober (recovery) houses. Ask 2-1-1 or the Access Line (800-563-4086) for a certified house.|
+Women, families & youth|Interval House|Hartford||888-774-2900||Domestic violence shelter, counseling and legal advocacy. Reach 24/7 through CT Safe Connect 888-774-2900.|24/7,free
+Women, families & youth|The Connection – START Program (ages 16–24)|Hartford|37 Garden St, Hartford||https://www.theconnectioninc.org/|Street outreach, host homes and emergency apartments for youth and young adults without stable housing.|free
+Women, families & youth|Urban League of Greater Hartford|Hartford|140 Woodland St, Hartford|860-527-0147|https://www.ulgh.org/|Job training, youth programs and family support.|
+Women, families & youth|Our Piece of the Pie (ages 14–24)|Hartford|20 Sargeant St, Hartford|860-727-0627|https://www.opp.org/|Education, job training and coaching for young people.|
+Women, families & youth|Community Renewal Team (CRT)|Hartford|555 Windsor St, Hartford|860-560-5600|https://www.crtct.org/|Head Start, energy assistance, family shelter, veterans services and more.|
+Women, families & youth|Connecticut Office of Early Childhood|Statewide|||https://www.ctoec.org/|Child-care help (Care 4 Kids), home visiting and early childhood supports.|
+Women, families & youth|Connecticut WIC|Statewide|||https://portal.ct.gov/dph/wic/wic|Food, formula and nutrition help for pregnant people, new parents and children under 5.|free
+Women, families & youth|Jewish Family Services – Tara's Closet|West Hartford||860-236-1927|https://www.jfshartford.org/|Free clothing by appointment for people in Hartford and nearby towns.|free,call-first
+Veterans|VA Homeless Veterans Hotline|National||877-424-3838|https://www.va.gov/homeless/|Veterans without housing or at risk: connects you to the local VA homeless team.|24/7,free,card
+Veterans|Veterans Crisis Line|National||988|https://www.veteranscrisisline.net/|Call 988 and press 1, or text 838255.|24/7,free
+Veterans|VA Connecticut – Newington Campus|Newington|555 Willard Ave, Newington|860-666-6951|https://www.va.gov/connecticut-health-care/|VA health care and homeless program walk-in mornings. Hartford VA benefits office is on this campus.|
+Veterans|CRT Supportive Services for Veteran Families|Hartford|1921 Park St, Hartford|860-560-5600|https://www.crtct.org/|Rapid rehousing and help keeping housing for veteran families.|free
+Veterans|CT Department of Veterans Affairs|Rocky Hill|287 West St, Rocky Hill||https://portal.ct.gov/dva|State veterans benefits, residential programs and services.|
+Jobs, benefits & IDs|American Job Center – Hartford|Hartford||860-256-3700|https://capitalworkforce.org/american-job-centers|Free job search, résumé help, training funds and computers.|free
+Jobs, benefits & IDs|Capital Workforce Partners|Greater Hartford||860-406-3374|https://capitalworkforce.org/|Regional job training and employment programs.|free
+Jobs, benefits & IDs|CTHires|Statewide|||https://www.cthires.com/|State job board and workforce resources.|free
+Jobs, benefits & IDs|Goodwill career coaching|Greater Hartford|||https://www.gwct.org/|Résumé building, interview practice and job search coaching.|free
+Jobs, benefits & IDs|Connecticut DSS (cash, food, medical benefits)|Statewide|55 Farmington Ave, Hartford|855-626-6632|https://portal.ct.gov/dss|Apply for SNAP, cash help (TFA/SAGA) and HUSKY.|free
+Jobs, benefits & IDs|Energy assistance (CEAP)|Statewide||800-842-1132|https://portal.ct.gov/heatinghelp|Help paying heating bills. Also through CRT or 2-1-1.|free
+Jobs, benefits & IDs|Social Security|National||800-772-1213|https://www.ssa.gov/|Replace a Social Security card; apply for SSI/SSDI.|free
+Jobs, benefits & IDs|Connecticut DMV (state ID)|Statewide|||https://portal.ct.gov/dmv|Requirements for a Connecticut non-driver ID. Ask a case manager about fee waivers.|
+Jobs, benefits & IDs|Lifeline free/discount phone service|National|||https://www.lifelinesupport.org/|Low-income discount on a cell phone plan. Qualify through SNAP, Medicaid or SSI.|free
+Legal & reentry|Greater Hartford Legal Aid|Hartford|999 Asylum Ave, Hartford|860-541-5000|https://ghla.org/|Free civil legal help: evictions, benefits, family and housing issues.|free
+Legal & reentry|Statewide Legal Services of CT|Statewide||800-453-3320|https://slsct.org/|Free legal advice line for low-income residents.|free
+Legal & reentry|CTLawHelp|Statewide|||https://ctlawhelp.org/|Plain-language legal guides and forms.|free
+Legal & reentry|Greater Hartford Reentry Welcome Center|Hartford|716 Windsor St, Hartford|860-263-8476|https://cpa-ct.org/|For people returning from incarceration: IDs, housing, jobs and peer support.|free,walk-in
+Legal & reentry|Community Partners in Action|Hartford|||https://cpa-ct.org/|Reentry programs, clothing closet and alternatives to incarceration.|
+Clothing, phones & transportation|San Juan Center|Hartford|1283 Main St, Hartford|860-522-2205||Free clothing closet and furniture bank.|free,call-first
+Clothing, phones & transportation|CTtransit Hartford|Greater Hartford||860-522-8101|https://www.cttransit.com/|Bus routes, schedules and reduced-fare information.|
+Clothing, phones & transportation|CTfastrak|Greater Hartford|||https://ctfastrak.com/|Bus rapid transit between Hartford and New Britain.|
+Clothing, phones & transportation|Hartford Public Library branches|Hartford||860-695-6300|https://www.hplct.org/|Free computers, Wi-Fi, charging and help reaching services.|free,walk-in
+Town social services (Hartford County)|West Hartford Social Services|West Hartford||860-561-7561|https://www.westhartfordct.gov/|Emergency help, food pantry and referrals for residents.|
+Town social services (Hartford County)|Newington Human Services|Newington|200 Garfield St, Newington|860-665-8590|https://newingtonct.gov/|Emergency help, food bank and counseling referrals.|
+Town social services (Hartford County)|Rocky Hill Human, Youth & Senior Services|Rocky Hill|761 Old Main St, Rocky Hill|860-258-2799|https://rockyhillct.gov/|Emergency help, food and referrals for Rocky Hill residents.|
+Town social services (Hartford County)|Bloomfield Social & Youth Services|Bloomfield|330 Park Ave, Bloomfield|860-242-1895|https://bloomfieldct.gov/|Emergency help and referrals for residents.|
+Town social services (Hartford County)|East Hartford Human Services|East Hartford||860-291-7248|https://www.easthartfordct.gov/|Food resources, emergency help and referrals.|
+Town social services (Hartford County)|Manchester Senior, Adult & Family Services|Manchester|||https://www.manchesterct.gov/|Emergency help and referrals for residents. Call Town Hall and ask for social services.|
+Town social services (Hartford County)|Glastonbury Human Services|Glastonbury|||https://glastonburyct.gov/|Emergency help, food bank and mental-health referrals.|
+Town social services (Hartford County)|Windsor Social Services|Windsor|||https://www.windsorct.gov/|Emergency help and referrals for residents.|
+Town social services (Hartford County)|New Britain social services|New Britain|||https://www.newbritainct.gov/|City social services and referrals.|
+Town social services (Hartford County)|Bristol social services|Bristol|||https://www.bristolct.gov/|City social services and referrals.|
+Town social services (Hartford County)|Enfield social services|Enfield|||https://www.enfield-ct.gov/|Town social services and referrals.|
+Town social services (Hartford County)|Southington social services|Southington|||https://www.southington.org/|Town social services and referrals.|
+Faith & community outreach|Dimension Abundant Life Ministries|Rocky Hill area|||https://www.dimensionministries.org/community-outreach-ministry|Our church. Ask about A Pack to Recovery, prayer, or a caring person to talk to.|free
+Faith & community outreach|Center Church Hartford|Hartford|60 Gold St, Hartford|860-249-5631|https://centerchurchhartford.org/|Outreach ministries and winter overnight shelter.|
+Faith & community outreach|St. Patrick–St. Anthony Church|Hartford|285 Church St, Hartford||https://spsact.org/|Franciscan Center for Urban Ministry and outreach programs.|
+Faith & community outreach|Salvation Army – Southern New England|Statewide|||https://easternusa.salvationarmy.org/southern-new-england/|Shelter, meals, holiday help and emergency assistance.|
