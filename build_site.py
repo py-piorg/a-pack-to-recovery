@@ -95,7 +95,7 @@ def page(fname, title, desc, body, hero_img=None):
 </div></header>
 <main id="main">{body}</main>
 <footer class="site-foot"><div class="wrap top">
-<div class="brand"><img src="assets/dalm-logo.png" alt="Dimension Abundant Life Ministries" width="419" height="289"><p>A Pack to Recovery is a community outreach of Dimension Abundant Life Ministries, helping ordinary people live extraordinary lives.</p>
+<div class="brand"><a class="logo-foot" href="{CHURCH}/"><img src="assets/dalm-logo.png" alt="Dimension Abundant Life Ministries" width="419" height="289"></a><p>A Pack to Recovery is a community outreach of Dimension Abundant Life Ministries, helping ordinary people live extraordinary lives.</p>
 <div class="social"><a href="https://www.facebook.com/DimensionAbundantLifeMinistries" aria-label="Facebook">{I['fb']}</a><a href="https://www.instagram.com/dimensionlifeministries/" aria-label="Instagram">{I['ig']}</a><a href="https://www.youtube.com/channel/UC2dPU9p5CdF0M4lxwu2d5DQ" aria-label="YouTube">{I['yt']}</a></div></div>
 <div><h4>Get help</h4><ul><li><a href="get-help-now.html">Get help now</a></li><li><a href="resources.html">Resource directory</a></li><li><a href="resources.html#saved">My saved list</a></li><li><a href="{HANDOUT}">Printable handout (PDF)</a></li></ul></div>
 <div><h4>The project</h4><ul><li><a href="about.html">About the project</a></li><li><a href="get-involved.html">Get involved</a></li><li><a href="get-involved.html#packing">Packing list</a></li><li><a href="about.html#faq">FAQ</a></li></ul></div>

@@ -10,7 +10,7 @@ html.big{--fs:1.18rem}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:96px}
 body{margin:0;background:#fff;color:var(--ink);font-family:var(--body);font-size:var(--fs);line-height:1.65;-webkit-font-smoothing:antialiased}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 a{color:#1f74a2;text-underline-offset:.2em}
 :focus-visible{outline:3px solid var(--blue);outline-offset:3px}
 [hidden]{display:none!important}
@@ -208,7 +208,8 @@ details.faq p{padding-bottom:1rem;margin:0}
 .site-foot a{color:#d4d4d4;text-decoration:none;font-weight:600;font-size:.9rem}
 .site-foot a:hover{color:#fff;text-decoration:underline}
 .site-foot ul{list-style:none;padding:0;margin:0;display:grid;gap:.45rem}
-.site-foot .brand img{width:120px;background:#fff;border-radius:50%;padding:8px 14px;margin-bottom:1rem}
+.site-foot .brand a.logo-foot{display:inline-block;background:#fff;border-radius:50%;padding:10px 18px;margin-bottom:1rem}
+.site-foot .brand img{width:120px;height:auto}
 .site-foot .brand p{font-size:.9rem}
 .social{display:flex;gap:.7rem;margin-top:1rem}
 .social a{width:38px;height:38px;border-radius:50%;background:#fff;color:var(--foot);display:grid;place-items:center}
