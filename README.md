@@ -1,15 +1,32 @@
 # A Pack to Recovery
 
-A standalone static website for Dimension Abundant Life Ministries. Open index.html to preview the project and resources.html to preview the directory. For a local server on Windows, open this folder in PowerShell, run `py -m http.server 8000`, and visit http://localhost:8000.
+Outreach website for **Dimension Abundant Life Ministries**: 50 backpacks for neighbors experiencing homelessness in Hartford County, plus a free, searchable directory of local resources.
 
-## Publish on the church site
+**Live site:** https://py-piorg.github.io/a-pack-to-recovery/
 
-The current church site is built with Wix. A church editor can recreate these pages using Wix sections and the existing site header and footer. The source can also run on static hosting and be embedded in Wix, provided the embed works at mobile widths and exposes the full directory without clipping. Keep the directory available without login for anyone using the printed card.
+## Pages
 
-Proposed public routes are /pack-to-recovery and /pack-to-recovery-resources. The proof PDF points to https://www.dimensionministries.org/pack-to-recovery-resources. This route is proposed. When publishing, set up the final route or redirect and test it on a phone using cellular data. Regenerate the PDF using the final URL and omit --proof only after testing. The card prints two copies on one US Letter sheet at Actual Size.
+| Page | What it does |
+|---|---|
+| `index.html` | Home: hero, welcome, quick-link tiles, key numbers, packing list, pathway, progress meter |
+| `get-help-now.html` | Crisis lines and "what to do if…" guidance |
+| `resources.html` | Directory (~130 listings): search, category and town filters, Open 24/7 / Walk-in toggles, ★ save-to-my-list, print a custom list, tap-to-call, directions |
+| `get-involved.html` | Ways to help, full packing list (printable), drive timeline, volunteer guidance |
+| `about.html` | Mission, DALM's four purposes, commitments, FAQ |
+| `A_Pack_to_Recovery_Handout.pdf` | Two-sided letter handout. Front: flyer with key numbers and a QR code. Back: resource guide |
 
-## Maintain the directory
+The look follows dimensionministries.org: navy `#0f3a51`, sky blue `#2eaef3`, a translucent blue header bar with the oval logo, Poppins, condensed Anton headings, italic serif accents, dark-overlay photo tiles, and a dark footer. Logo and photos come from the church's public site.
 
-Edit resources.tsv and run `python build_site.py`. Each row holds category, title, area, phone, official source link and a short description. Confirm the phone number, intake, hours and service locations directly before distribution. For the print card, update make_card.py and run `python make_card.py https://YOUR-FINAL-URL` with ReportLab installed.
+## Updating
 
-The logo and outreach photo are from the church’s public Wix site. The layout uses the church site’s blue and navy theme, white navigation and photography. Update the contact action only if the church designates a specific email or donation route for this drive.
+1. **Resources:** edit `resources.tsv`. Each line is `category|name|town|address|phone|website|description|tags`, where tags are `24/7`, `walk-in`, `free` or `call-first`.
+2. **Progress meter:** set `PACKED` near the top of `build_site.py`.
+3. Rebuild the pages: `python build_site.py`
+4. Rebuild the handout: `pip install reportlab qrcode pillow`, then `python make_handout.py https://py-piorg.github.io/a-pack-to-recovery/`. Edit the `NUMS` list in `make_handout.py` to change the front-page numbers.
+5. Commit and push. GitHub Pages republishes in about a minute.
+
+**Before printing:** call the numbers on the handout to confirm they still work. Listings were gathered in November 2026 from provider sites and public directories, and programs change often.
+
+Print the handout double-sided, flipped on the long edge, at Actual Size.
+
+Fonts in `fonts/` are from Google Fonts and licensed under the SIL Open Font License.
